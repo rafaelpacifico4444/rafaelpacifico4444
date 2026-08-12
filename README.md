@@ -47,3 +47,4 @@ Projeto final do curso CS50 da Universidade de Harvard. Um gerenciador de creden
 
 *   **LinkedIn:** [linkedin.com/in/rafael-lobo-6bb3aa37b](https://linkedin.com/in/rafael-lobo-6bb3aa37b/)
 *   **E-mail:** pacificoit01@gmail.com
+*   **Instagram:** [instagram.com/rafaelpacificolobo_](https://www.instagram.com/rafaelpacificolobo_/)
