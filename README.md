@@ -1,16 +1,49 @@
-## Hi there 👋
+# Olá, eu sou o Rafael Lobo! 👋
 
-<!--
-**rafaelpacifico4444/rafaelpacifico4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Engenheiro de Cloud | DevOps | Desenvolvedor Backend**
 
-Here are some ideas to get you started:
+Sou estudante de Ciência da Computação na Universidade Federal de Alagoas (UFAL) e um entusiasta por infraestrutura na nuvem, automação e segurança. Gosto de resolver problemas complexos criando arquiteturas escaláveis e pipelines inteligentes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 O que estou fazendo atualmente:
+*   🎓 Estudando Ciência da Computação na **UFAL** (Previsão: 2029).
+*   ☁️ Aprofundando meus conhecimentos em **Cloud Computing** (AWS, GCP, Azure) e **Infraestrutura como Código (IaC)**.
+*   🏆 Participando ativamente da comunidade tech (Oxe Hacker Club, CSBC, Hackathons).
+
+---
+
+### 🛠️ Minhas Tecnologias e Ferramentas
+
+*   **Cloud & DevOps:** AWS (EC2, RDS, Lambda, VPC, CloudFront, API Gateway), Terraform, GitHub Actions (CI/CD), Nginx, Docker.
+*   **Linguagens:** Python, C, Java, JavaScript, Bash/Shell, SQL.
+*   **Bancos de Dados:** PostgreSQL, SQLite.
+*   **Ferramentas & SO:** Linux, Git, Flask, Gunicorn.
+
+---
+
+### 💻 Projetos em Destaque
+
+#### ☁️ [Lab-IaC: Infraestrutura Cloud Automatizada](link-para-seu-repo-aqui)
+Uma infraestrutura web de alta disponibilidade provisionada 100% via **Terraform** na AWS. 
+*   Implementação de pipelines de CI/CD com **GitHub Actions** para validação e deploy contínuo.
+*   Arquitetura Serverless (Webhook + Lambda + SSM) para atualização automatizada de instâncias EC2 sem exposição de SSH.
+*   Integração com Auto Scaling, Application Load Balancer e banco de dados PostgreSQL (RDS) isolado em subnets privadas.
+
+#### 🔒 [Vault Password Manager (CS50x)](link-para-seu-repo-aqui)
+Projeto final do curso CS50 da Universidade de Harvard. Um gerenciador de credenciais focado em segurança.
+*   Desenvolvido com **Python, Flask, SQLite, HTML/CSS e JavaScript**.
+*   Foco em segurança de dados com implementação de técnicas de hashing e salting para proteção de senhas no back-end.
+
+---
+
+### 🏆 Conquistas e Certificações
+
+*   🥉 **3º Lugar - Hackathon Match Tech:** Provisionamento de arquitetura Cloud e DevOps. Equipe selecionada para o *TalentHub Oxetech Academy*.
+*   📜 **Certificado CS50x:** Introduction to Computer Science (Harvard University - 2026).
+*   📜 **Certificado Oxetech Academy:** Cloud Computing e Infraestrutura Inteligente (2026).
+
+---
+
+### 📫 Como me encontrar
+
+*   **LinkedIn:** [linkedin.com/in/rafael-lobo-6bb3aa37b](https://linkedin.com/in/rafael-lobo-6bb3aa37b/)
+*   **E-mail:** pacificoit01@gmail.com
