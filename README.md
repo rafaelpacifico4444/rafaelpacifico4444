@@ -1,4 +1,4 @@
-# Olá, sou Rafael Lobo mas me chamam de Pacífico👋
+# Olá, me chamo Pacífico👋
 
 🚀 **Engenheiro de Cloud | DevOps | Desenvolvedor Backend**
 
